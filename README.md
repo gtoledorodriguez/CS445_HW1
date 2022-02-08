@@ -5,6 +5,8 @@ The instructions to install, build, and deploy the application are designed to b
 
 ## Instructions
 ### Installation
+Open the terminal
+
 Install Java 16 JDK  
 `sudo apt install openjdk-16-jdk-headless`
 
