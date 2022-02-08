@@ -1,4 +1,4 @@
-
+package src.java;
 public class Fly extends Creature implements Flyer {
 	private String movement = "";
 	public Fly(String name) {

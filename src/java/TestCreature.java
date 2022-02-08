@@ -1,3 +1,4 @@
+package src.java;
 public class TestCreature{
     static int THING_COUNT = 10;
     static int CREATURE_COUNT = 6;

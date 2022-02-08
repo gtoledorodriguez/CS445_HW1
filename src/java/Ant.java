@@ -1,4 +1,4 @@
-
+package src.java;
 public class Ant extends Creature{
 	private String movement = "";
 	public Ant(String name) {

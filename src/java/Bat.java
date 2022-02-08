@@ -1,4 +1,4 @@
-
+package src.java;
 public class Bat extends Creature implements Flyer {
 	private String movement = "";
 	public Bat(String name) {

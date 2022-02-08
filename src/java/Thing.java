@@ -1,3 +1,4 @@
+package src.java;
 public class Thing {
     private String thingName;
     public Thing(String name){

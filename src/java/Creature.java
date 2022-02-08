@@ -1,4 +1,4 @@
-
+package src.java;
 public abstract class Creature extends Thing{
 	private String lastThingCreatureAte = "";
 	private String answerToWhatDidYouEat = "";

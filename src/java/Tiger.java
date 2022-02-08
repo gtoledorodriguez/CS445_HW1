@@ -1,4 +1,4 @@
-
+package src.java;
 public class Tiger extends Creature{
 	private String movement = "";
 	public Tiger(String name) {
