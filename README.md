@@ -17,6 +17,10 @@ Install Unzip, if not already installed
 If you downloaded the repository as a zip file. Go the the directory the zip folder is in. 
 Then do,  
 `unzip Gladys-Toledo_Rodriguez-CS445-HW-1-main.zip`
+
+Enter the unzipped folder  
+`cd Gladys-Toledo_Rodriguez-CS445-HW-1-main/src/java`
+
 ##### Git Clone
 If you don't have already, install git:  
 `sudo apt install git`  
@@ -25,10 +29,10 @@ Move into the folder you want the repository to be in.
 Once there do,  
 `git clone https://github.com/gtoledorodriguez/Gladys-Toledo_Rodriguez-CS445-HW-1.git`
 
-### Build
-Enter the cloned/unzipped folder  
-`cd Gladys-Toledo_Rodriguez-CS445-HW-1-main/src/java`
+Enter the cloned folder  
+`cd Gladys-Toledo_Rodriguez-CS445-HW-1/src/java`
 
+### Build
 Enter the following command to build/compile the files:  
 `javac -d . *.java`
 
