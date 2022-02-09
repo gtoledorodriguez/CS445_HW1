@@ -23,7 +23,7 @@ If you don't have already, install git:
 
 Move into the folder you want the repository to be in.
 Once there do,  
-`git clone https://github.com/gtoledorodriguez/Gladys-Toledo_Rodriguez-CS445-HW-1-main.git`
+`git clone https://github.com/gtoledorodriguez/Gladys-Toledo_Rodriguez-CS445-HW-1.git`
 
 ### Build
 Enter the cloned/unzipped folder  
