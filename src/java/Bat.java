@@ -17,14 +17,12 @@ public class Bat extends Creature implements Flyer {
 	
 	@Override
 	public void fly() {
-		// TODO Auto-generated method stub
 		this.movement = this.toString() + " is swooping through the dark.";
 		System.out.println(this.movement);
 	}
 
 	@Override
 	public void move() {
-		// TODO Auto-generated method stub
 		this.fly();
 
 	}

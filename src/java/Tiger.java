@@ -7,7 +7,6 @@ public class Tiger extends Creature{
 	
 	@Override
 	public void move() {
-		// TODO Auto-generated method stub
 		this.movement = this.toString() + " has just pounced.";
 		System.out.println(this.movement);
 	}

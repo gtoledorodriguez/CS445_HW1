@@ -13,6 +13,4 @@ public class Ant extends Creature{
 	public String getMovement() {
 		return this.movement;
 	}
-
-
 }

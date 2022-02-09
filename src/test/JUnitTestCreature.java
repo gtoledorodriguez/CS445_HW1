@@ -138,5 +138,4 @@ class JUnitTestCreature {
 		b.move();
 		assertEquals(b.toString()+ " is swooping through the dark.", b.getMovement());
 	}
-
 }
